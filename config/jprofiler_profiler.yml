@@ -17,6 +17,6 @@
 ---
 version: 11.+
 repository_root: https://download.run.pivotal.io/jprofiler
-enabled: false
+enabled: true
 nowait: true
 port: 8849
